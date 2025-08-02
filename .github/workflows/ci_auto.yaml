@@ -1,5 +1,5 @@
 # Name of workflow/job/action
-name: Run Pandas Job
+name: Run Pandas
 
 # When to do
 # Triggers for worflow
